@@ -25,7 +25,7 @@ This ensures **freedom to innovate** while maintaining **clarity in execution**.
 ## Current Initiatives
 
 * **PicStream**: A bulk image downloading tool designed to simplify image collection.
-* **Research_Paper**: Open for members to propose and collaborate on creative and tech-driven ideas.
+* **Research_Hub**: Open for members to propose and collaborate on creative and tech-driven ideas.
 
 ## Join Us
 
