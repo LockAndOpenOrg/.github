@@ -39,6 +39,3 @@ We are constantly refining our processes and learning together. Once our foundat
 
 While the organization is currently focused on internal refinement, we encourage **idea-driven collaboration** within the team. Stay tuned for public opportunities to contribute!
 
-
-
-Do you want me to do that next?
