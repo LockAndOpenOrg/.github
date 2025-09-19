@@ -33,7 +33,7 @@ We are constantly refining our processes and learning together. Once our foundat
 
 🔗 **Website:** [lockandopen.in](https://www.lockandopen.in)
 🔗 **Instagram:** [@lockandopen](https://www.instagram.com/lockandopen_official/)
-🔗 **LinkedIn:** [Lock and Open](https://www.linkedin.com/in/mohamed-asif-a5856817b/)
+🔗 **LinkedIn:** [Lock and Open](https://www.linkedin.com/company/lockandopen/)
 
 ## Contributing
 
