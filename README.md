@@ -32,7 +32,7 @@ This ensures **freedom to innovate** while maintaining **clarity in execution**.
 We are constantly refining our processes and learning together. Once our foundation is fully organized, we will open the community for new members who share our vision.
 
 🔗 **Website:** [lockandopen.in](https://www.lockandopen.in)
-🔗 **Instagram:** [@lockandopen](https://www.instagram.com/lockandopen)
+🔗 **Instagram:** [@lockandopen](https://www.instagram.com/lockandopen_official/)
 🔗 **LinkedIn:** [Lock and Open](https://www.linkedin.com/in/mohamed-asif-a5856817b/)
 
 ## Contributing
